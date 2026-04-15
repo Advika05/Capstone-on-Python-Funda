@@ -1,7 +1,10 @@
 # Working on Python Fundamentals
-Overview
+## Overview
+
 This project is a comprehensive data analysis task involving employee data and project management. The dataset consists of three main tables: Employee Data, Seniority Level Data, and Project Data. Using Python and data manipulation libraries, various tasks were performed to clean, merge, analyze, and enhance the dataset, simulating real-world data challenges. The tasks range from handling missing values to applying business logic for project performance evaluation.
-Key Features
+
+## Key Features
+
 • Data cleaning and preprocessing:
 
 ° Imputed missing project costs using a running average with a for loop.
